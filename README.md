@@ -31,12 +31,12 @@ Radar de pesquisas eleitorais brasileiras com coleta automatizada, análise com 
 **Repositório:** https://github.com/simoesleandro/Pulso-eleitoral  
 **Demo:** https://pulso-eleitoral.fly.dev/dashboard
 
-### EleitorAI
+### Veritas Eleitoral
 
-Plataforma de inteligência eleitoral agentica com fact-checking, análise de narrativas, RAG, agentes LangGraph, worker assíncrono, CI e hardening de segurança.
+MVP de fact-checking eleitoral assistido por IA, extraído de uma ideia maior para virar um projeto de portfólio mais enxuto, testável e demonstrável. Recebe uma claim política, extrai a afirmação, associa evidências, classifica o veredito e gera um dossiê.
 
-**Stack:** Python, Flask, LangGraph, SQLite, sqlite-vec, Gemini, APScheduler, pytest, Docker  
-**Repositório:** https://github.com/simoesleandro/EleitorAI
+**Stack:** Python, Flask, LangGraph, SQLite, sqlite-vec, Gemini, APScheduler, pytest  
+**Repositório:** https://github.com/simoesleandro/veritas-eleitoral
 
 ### TechPulse
 
@@ -70,4 +70,3 @@ Tenho interesse especial em backend Python, aplicações fullstack, automação,
 - GitHub: https://github.com/simoesleandro
 - LinkedIn: https://linkedin.com/in/leandro-sim%C3%B5es-7a0b3537b
 - Portfólio: https://simoesleandro.github.io/portfolio
-
