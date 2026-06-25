@@ -23,13 +23,6 @@ Radar de pesquisas eleitorais 2026 com agregação de institutos, análise de te
 **Repositório:** https://github.com/simoesleandro/Pulso-eleitoral  
 **Demo:** https://pulso-eleitoral.fly.dev/dashboard
 
-### Veritas Eleitoral
-
-MVP de fact-checking eleitoral assistido por IA. Recebe uma claim, extrai a afirmação principal, cruza evidências e gera um veredito com dossiê rastreável.
-
-**Stack:** Python, Flask, LangGraph, SQLite, Gemini, APScheduler, pytest  
-**Repositório:** https://github.com/simoesleandro/veritas-eleitoral
-
 ### Sentinela RJ
 
 Monitor de contratos públicos do município do Rio de Janeiro com coleta via PNCP, detecção de anomalias, dashboard público e apoio investigativo com IA.
@@ -38,12 +31,12 @@ Monitor de contratos públicos do município do Rio de Janeiro com coleta via PN
 **Repositório:** https://github.com/simoesleandro/sentinela-rj  
 **Demo:** https://sentinela-rj.fly.dev/dashboard
 
-### TechPulse
+### Veritas Eleitoral
 
-Feed técnico filtrado por IA local, com backend FastAPI, frontend Next.js e pipeline de ingestão e classificação de conteúdo para reduzir ruído informacional.
+MVP de fact-checking eleitoral assistido por IA. Recebe uma claim, extrai a afirmação principal, cruza evidências e gera um veredito com dossiê rastreável.
 
-**Stack:** FastAPI, SQLAlchemy, Next.js, Tailwind CSS, SQLite, Ollama/Gemma, pytest  
-**Repositório:** https://github.com/simoesleandro/Tech-Pulse
+**Stack:** Python, Flask, LangGraph, SQLite, Gemini, APScheduler, pytest  
+**Repositório:** https://github.com/simoesleandro/veritas-eleitoral
 
 ### sys-health
 
@@ -51,6 +44,13 @@ Plataforma fullstack de saúde pessoal com dashboard, nutrição, treinos, dados
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, Gemini, PWA  
 **Repositório:** https://github.com/simoesleandro/sys-health
+
+### TechPulse
+
+Feed técnico filtrado por IA local, com backend FastAPI, frontend Next.js e pipeline de ingestão e classificação de conteúdo para reduzir ruído informacional.
+
+**Stack:** FastAPI, SQLAlchemy, Next.js, Tailwind CSS, SQLite, Ollama/Gemma, pytest  
+**Repositório:** https://github.com/simoesleandro/Tech-Pulse
 
 ### Hermes Lite
 
