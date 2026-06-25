@@ -1,8 +1,8 @@
 # Olá, eu sou Leandro Simões
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com retomada da graduação na FIAP em agosto de 2026, e desenvolvedor em formação com foco em Python, IA aplicada, automação, dados e aplicações fullstack.
+Sou desenvolvedor fullstack em transição de carreira, com foco em Python, IA aplicada, automação, dados públicos e produtos orientados a problema real.
 
-Venho de uma trajetória anterior em gestão e Direito, e hoje uso esse repertório para construir projetos que combinam tecnologia, dados públicos, automação e produtos úteis no mundo real.
+Venho de uma trajetória anterior em gestão e Direito, e hoje uso esse repertório para construir projetos que combinam tecnologia, contexto real, automação e utilidade prática.
 
 ## O que venho estudando e construindo
 
@@ -15,17 +15,9 @@ Venho de uma trajetória anterior em gestão e Direito, e hoje uso esse repertó
 
 ## Projetos em destaque
 
-### Sentinela RJ
-
-Monitor de contratos públicos do município do Rio de Janeiro com coleta via PNCP, detecção de anomalias, dashboard público, IA para investigação e deploy no Fly.io.
-
-**Stack:** Python, Flask, SQLite, Playwright, Gemini, Gemma local, pytest, Fly.io  
-**Repositório:** https://github.com/simoesleandro/sentinela-rj  
-**Demo:** https://sentinela-rj.fly.dev/dashboard
-
 ### Pulso Eleitoral
 
-Radar de pesquisas eleitorais brasileiras com coleta automatizada, análise com IA, dashboard público, gráficos e deploy em produção.
+Radar de pesquisas eleitorais 2026 com agregação de institutos, análise de tendência com IA, dashboard público e deploy em produção.
 
 **Stack:** Python, Flask, SQLite, Chart.js, Playwright, Gemini, pytest, Fly.io  
 **Repositório:** https://github.com/simoesleandro/Pulso-eleitoral  
@@ -33,14 +25,22 @@ Radar de pesquisas eleitorais brasileiras com coleta automatizada, análise com 
 
 ### Veritas Eleitoral
 
-MVP de fact-checking eleitoral assistido por IA, extraído de uma ideia maior para virar um projeto de portfólio mais enxuto, testável e demonstrável. Recebe uma claim política, extrai a afirmação, associa evidências, classifica o veredito e gera um dossiê.
+MVP de fact-checking eleitoral assistido por IA. Recebe uma claim, extrai a afirmação principal, cruza evidências e gera um veredito com dossiê rastreável.
 
-**Stack:** Python, Flask, LangGraph, SQLite, sqlite-vec, Gemini, APScheduler, pytest  
+**Stack:** Python, Flask, LangGraph, SQLite, Gemini, APScheduler, pytest  
 **Repositório:** https://github.com/simoesleandro/veritas-eleitoral
+
+### Sentinela RJ
+
+Monitor de contratos públicos do município do Rio de Janeiro com coleta via PNCP, detecção de anomalias, dashboard público e apoio investigativo com IA.
+
+**Stack:** Python, Flask, SQLite, Playwright, Gemini, pytest, Fly.io  
+**Repositório:** https://github.com/simoesleandro/sentinela-rj  
+**Demo:** https://sentinela-rj.fly.dev/dashboard
 
 ### TechPulse
 
-Feed técnico filtrado por IA local, com backend FastAPI, frontend Next.js e pipeline de ingestão/classificação de conteúdo para reduzir ruído informacional.
+Feed técnico filtrado por IA local, com backend FastAPI, frontend Next.js e pipeline de ingestão e classificação de conteúdo para reduzir ruído informacional.
 
 **Stack:** FastAPI, SQLAlchemy, Next.js, Tailwind CSS, SQLite, Ollama/Gemma, pytest  
 **Repositório:** https://github.com/simoesleandro/Tech-Pulse
@@ -61,9 +61,9 @@ Assistente pessoal de IA com múltiplos agentes, roteamento de modelos, memória
 
 ## Minha direção atual
 
-Estou organizando meu portfólio para buscar oportunidades de estágio ou posições júnior em desenvolvimento, automação, dados ou IA aplicada. Meu objetivo é unir base acadêmica, prática constante e projetos com utilidade real.
+Hoje estou concentrado em construir um portfólio coerente de produtos, com prioridade para backend Python, aplicações fullstack, automação, IA aplicada e civic tech.
 
-Tenho interesse especial em backend Python, aplicações fullstack, automação, IA aplicada e civic tech.
+Tenho interesse especial por projetos em que dados, contexto de negócio e experiência de uso se encontram de forma concreta.
 
 ## Contato
 
